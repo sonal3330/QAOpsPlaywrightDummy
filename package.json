@@ -1,0 +1,23 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "apitest": "npx playwright test tests/apiToken.spec.js --headed",
+    "smoketest": "npx playwright test --grep @Smoke",
+    "SafariNewConfig": "npx playwright test --config playwright.config1.js --project=safari"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@azure/identity": "^4.14.1",
+    "@azure/playwright": "^1.1.6",
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^25.3.1",
+    "allure-playwright": "^3.14.0",
+    "exceljs": "^4.4.0",
+    "typescript": "^7.0.2"
+  }
+}

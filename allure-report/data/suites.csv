@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2156","@Smoke visual testing","","2026-10-21","failed","2026-10-21","","visualTesting.spec.js","",""
+"","41678","@Smoke Cart Assignment ADIDAS ORIGINAL","","2026-10-21","broken","2026-10-21","","assignment2pageobjects.spec.js","",""
+"","17778","@Smoke Cart Assignment ZARA COAT 3","","2026-10-21","passed","2026-10-21","","assignment2pageobjects.spec.js","",""
+"","9033","@Smoke 6 events","","2026-10-21","passed","2026-10-21","","apiAssignment1.spec.js","",""
+"","7393","@Smoke upload and download file","","2026-10-21","passed","2026-10-21","","downloadAndUploadFile.spec.js","",""
+"","2866","@Smoke 4 events","","2026-10-21","passed","2026-10-21","","apiAssignment1.spec.js","",""

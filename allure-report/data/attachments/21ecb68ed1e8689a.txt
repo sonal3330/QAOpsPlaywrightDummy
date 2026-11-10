@@ -1,0 +1,15 @@
+[
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro',
+  'car',
+  'iPhone QA Max',
+  '{{productName}}',
+  'Laptop',
+  'Laptop'
+]
+ | 6ad8ac1693b084c41f5eb53d | 
+6ad8ac1693b084c41f5eb53d
+7
+6ad8ac1693b084c41f5eb53dZARA COAT 3$ 11500Wed Oct 21ViewDelete
+6ad8ac1693b084c41f5eb53d
