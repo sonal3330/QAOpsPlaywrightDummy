@@ -1,6 +1,7 @@
 const {test,expect}=require('@playwright/test');
 const { request } = require('http');
 
+//intercept
 test('Login test',async({page})=> {
 page.on('request',request=>console.log("Request:"+ request.url()));
   page.on('response',response=>console.log("Response:"+ response.url(),response.status()));
